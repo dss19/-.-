@@ -1,0 +1,16 @@
+@media screen and (min-width: 1000px) {
+    
+    .lang__type:not(.active):hover {
+        background-color: #9F9889;
+    }
+
+    .header__nav-link:hover {
+        color: #C56C1A;
+    }
+
+    .button_orange:hover {
+        background-color: transparent;
+        color: #C56C1A;
+        border: 1px solid #C56C1A;
+    }
+}
